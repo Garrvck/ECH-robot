@@ -1,11 +1,11 @@
-viks_sentabr="BQACAgIAAxkBAAMkZS0vNTf07kVCr8qSnQt7vaXuGzcAAg48AAJRckBJtwmkOEM-4kcwBA"
+viks_sentabr="BQACAgIAAxkBAAIB7GUuH2s-dP6gecckWIgiaUfH1lrRAAKGOAAC-GlxSSGF54h3EX7fMAQ"
 
-sklad_sentabr="BQACAgIAAxkBAAMkZS0vNTf07kVCr8qSnQt7vaXuGzcAAg48AAJRckBJtwmkOEM-4kcwBA"
+sklad_sentabr="BQACAgIAAxkBAAIB6GUuHzC-83hEmdHAec8jtp_Dc0vwAAKnNQACMPhoScOvx5EEAZ_KMAQ"
 
-ppr_sentabr="BQACAgIAAxkBAAMkZS0vNTf07kVCr8qSnQt7vaXuGzcAAg48AAJRckBJtwmkOEM-4kcwBA"
+ppr_sentabr="BQACAgIAAxkBAAIB7GUuH2s-dP6gecckWIgiaUfH1lrRAAKGOAAC-GlxSSGF54h3EX7fMAQ"
 
-viks_avgust=""
+viks_avgust="BQACAgIAAxkBAAIB6mUuH08KNps7NBRGhyec6GrYsDSBAAJ7OAAC-GlxSR7hcIsgrgmrMAQ"
 
-sklad_avgust=""
+sklad_avgust="BQACAgIAAxkBAAIB5mUuHwgS38fRoSdZ29P_9dXNvaUXAAKmNQACMPhoScapSuX-aM9HMAQ"
 
-ppr_avgust=""
+ppr_avgust="BQACAgIAAxkBAAIB7GUuH2s-dP6gecckWIgiaUfH1lrRAAKGOAAC-GlxSSGF54h3EX7fMAQ"

@@ -42,13 +42,13 @@ async def Pprsentabr(msg: Message, state: FSMContext):
 
 
 @dp.message_handler(text="Avgust", state=MenuState.viks)
-async def Vikssentabr(msg: Message, state: FSMContext):
+async def Vikssentab(msg: Message, state: FSMContext):
     await msg.answer_document(document=viks_avgust)
 
 @dp.message_handler(text="Avgust", state=MenuState.sklad)
-async def Skladsentabr(msg: Message, state: FSMContext):
+async def Skladsentab(msg: Message, state: FSMContext):
     await msg.answer_document(document=sklad_avgust)
 
 @dp.message_handler(text="Avgust", state=MenuState.ppr)
-async def Pprsentabr(msg: Message, state: FSMContext):
+async def Pprsentab(msg: Message, state: FSMContext):
     await msg.answer_document(document=ppr_avgust)
